@@ -1,0 +1,12 @@
+c18fa04ba5c1b58a1beff27014dc3f94 *DESCRIPTION
+b6ac520a810a31da6306dc27fb50613f *NAMESPACE
+f253784c4c4fe0da7eb2faeff716f6b6 *R/RcppExports.R
+257a6c8fadb4ec6e605dc5de27d8229f *R/morethuente_linesearch.R
+8900342b172e76eb2bbfe9a16c66085d *R/print.rnewton.R
+c7147289e8cc09f4573ddfe37e6f6ddf *R/rnewton.R
+2dfdc7a27fbeaa1f455c4d185a1bf540 *README.md
+d0a1634e3903ce2c677850a2f1135965 *man/rnewton.Rd
+b4f0b014ec53404e843dbc718fabf57e *src/Makevars
+b4f0b014ec53404e843dbc718fabf57e *src/Makevars.win
+23f7befc4319bdbb5efb8abce213a94c *src/RcppExports.cpp
+f2e667862640bff44cd6b0bcb65da82e *src/minic.cpp
