@@ -1,13 +1,13 @@
-df82e20e237f458adde6ca0426c410b0 *DESCRIPTION
+8b5ec1851e3bc625f04e4670966cd019 *DESCRIPTION
 b6ac520a810a31da6306dc27fb50613f *NAMESPACE
-beac748c49f85df4ade58fa79a361471 *NEWS.md
+0911cb423075d2d881c3b2bb1f0072a0 *NEWS.md
 7efd1bffc3b5f7d0257bb7d730d25a12 *R/RcppExports.R
 257a6c8fadb4ec6e605dc5de27d8229f *R/morethuente_linesearch.R
 0e26ae1004d4c817c65d81e80a1beb0f *R/print.rnewton.R
 c446236e9c09d3aff05c1892717a1f37 *R/rnewton.R
-89f6b0fd2d59d9c8241e884cf706a7c7 *README.md
+2dfdc7a27fbeaa1f455c4d185a1bf540 *README.md
 621972508f1e668f445e3a176a66ced2 *man/rnewton.Rd
 b4f0b014ec53404e843dbc718fabf57e *src/Makevars
 b4f0b014ec53404e843dbc718fabf57e *src/Makevars.win
 e1b84474246ea81e3d5e18f605c60e14 *src/RcppExports.cpp
-b918eeeea7c4c9dea9e0f815b0776d51 *src/minic.cpp
+8ac070efabe5c6b7f40168071541ca57 *src/minic.cpp

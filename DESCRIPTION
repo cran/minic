@@ -1,8 +1,8 @@
 Package: minic
 Type: Package
 Title: Minimization Methods for Ill-Conditioned Problems
-Version: 1.0.2
-Date: 2025-06-05
+Version: 1.0.3
+Date: 2025-10-09
 Authors@R: c(person("Bert", "van der Veen", role = c("aut", "cre"), email = "bert_van_der_veen@hotmail.com"))
 Maintainer: Bert van der Veen <bert_van_der_veen@hotmail.com>
 Description: Implementation of methods for minimizing ill-conditioned problems. Currently only includes regularized (quasi-)newton optimization (Kanzow and Steck et al. (2023), <doi:10.1007/s12532-023-00238-4>).
@@ -14,7 +14,7 @@ LinkingTo: Rcpp, RcppEigen
 URL: https://github.com/BertvanderVeen/minic
 BugReports: https://github.com/BertvanderVeen/minic/issues
 NeedsCompilation: yes
-Packaged: 2025-06-05 08:13:33 UTC; bertv
+Packaged: 2025-10-09 09:35:23 UTC; bertv
 Author: Bert van der Veen [aut, cre]
 Repository: CRAN
-Date/Publication: 2025-06-05 09:00:01 UTC
+Date/Publication: 2025-10-09 10:40:07 UTC
